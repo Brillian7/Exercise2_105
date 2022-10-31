@@ -9,9 +9,11 @@ namespace Exercise2_105
     class Program
     {
         //definisikan array dengan ukuran maksimum 45
-        private int[] BA = new int[45];
+        private int[] Bril = new int[45];
         //variable ukuran array
         private int n;
+        private int i;
+
         //fungsi untuk menginputkan ukuran array
         public void read()
         {
@@ -26,6 +28,14 @@ namespace Exercise2_105
                     Console.WriteLine("\nArray should have minimum 1 and maximum 45 elements.\n");
 
             }
+            //accept array elements
+            Console.WriteLine("");
+            Console.WriteLine("=====================================");
+            Console.WriteLine(" Enter Array Elements");
+            Console.WriteLine("=====================================");
+
+            
+
         }
 
         static void Main(string[] args)
