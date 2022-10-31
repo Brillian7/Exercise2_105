@@ -44,6 +44,11 @@ namespace Exercise2_105
 
         }
 
+        public void binarysearch()
+        {
+
+        }
+
         static void Main(string[] args)
         {
         }
