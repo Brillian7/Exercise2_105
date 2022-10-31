@@ -11,6 +11,7 @@ namespace Exercise2_105
         //definisikan array dengan ukuran maksimum 45
         private int[] BA = new int[45];
 
+
         static void Main(string[] args)
         {
         }
