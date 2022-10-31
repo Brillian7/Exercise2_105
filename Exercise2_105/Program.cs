@@ -46,7 +46,16 @@ namespace Exercise2_105
 
         public void binarysearch()
         {
+            
+            
+            {
+                //accept the number to be searched
+                Console.Write("\nenter element want you to search :");
+                int item = Convert.ToInt32(Console.ReadLine());
 
+               
+                
+            }
         }
 
         static void Main(string[] args)
